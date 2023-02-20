@@ -1,0 +1,21 @@
+{
+  "title": "berserk",
+  "description": "Big sword",
+  "artist": "",
+  "author": "Kentaro Miura",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1676878182",
+      "groups": {
+        "": [
+          "https://cdn.readberserk.com/file/mangap/1/20352000/1.jpg",
+          "https://cdn.readberserk.com/file/mangap/1/20352000/2.jpg",
+          "https://cdn.readberserk.com/file/mangap/1/20352000/3.jpg"
+        ]
+      }
+    }
+  }
+}
